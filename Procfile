@@ -1,0 +1,1 @@
+web: gunicorn mock_server.wsgi:flask_app
